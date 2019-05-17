@@ -1,0 +1,10 @@
+D:\Project\Demo\ScanIP\ScanIP\bin\Debug\ScanIP.exe.config
+D:\Project\Demo\ScanIP\ScanIP\bin\Debug\ScanIP.exe
+D:\Project\Demo\ScanIP\ScanIP\bin\Debug\ScanIP.pdb
+D:\Project\Demo\ScanIP\ScanIP\obj\Debug\ScanIP.csprojAssemblyReference.cache
+D:\Project\Demo\ScanIP\ScanIP\obj\Debug\ScanIP.frmMain.resources
+D:\Project\Demo\ScanIP\ScanIP\obj\Debug\ScanIP.Properties.Resources.resources
+D:\Project\Demo\ScanIP\ScanIP\obj\Debug\ScanIP.csproj.GenerateResource.cache
+D:\Project\Demo\ScanIP\ScanIP\obj\Debug\ScanIP.csproj.CoreCompileInputs.cache
+D:\Project\Demo\ScanIP\ScanIP\obj\Debug\ScanIP.exe
+D:\Project\Demo\ScanIP\ScanIP\obj\Debug\ScanIP.pdb
